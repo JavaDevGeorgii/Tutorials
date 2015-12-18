@@ -12,4 +12,5 @@ public class Chess implements Game {
         System.out.println("Chess moves "+ moves);
         return ++moves != MOVES;
     }
+
 }
